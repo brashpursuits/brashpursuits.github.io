@@ -5,8 +5,8 @@
     <description>All Acting.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 May 2018 17:11:53 +0100</pubDate>
-    <lastBuildDate>Tue, 15 May 2018 17:11:53 +0100</lastBuildDate>
+    <pubDate>Tue, 15 May 2018 19:23:17 +0100</pubDate>
+    <lastBuildDate>Tue, 15 May 2018 19:23:17 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -36,7 +36,7 @@
         <guid isPermaLink="true">/recommendations/2017/05/20/red-caravan-rubbermatch.html</guid>
         
         
-        <category>Recommendations</category>
+        <category>recommendations</category>
         
       </item>
     
@@ -65,7 +65,7 @@
         <guid isPermaLink="true">/recommendations/2017/05/10/finding-your-voice-with-jon-stancato.html</guid>
         
         
-        <category>Recommendations</category>
+        <category>recommendations</category>
         
       </item>
     
@@ -88,7 +88,7 @@
         <guid isPermaLink="true">/reviews/2017/04/06/the-science-of-on-camera-acting.html</guid>
         
         
-        <category>Reviews</category>
+        <category>reviews</category>
         
       </item>
     
@@ -117,7 +117,7 @@
         <guid isPermaLink="true">/reviews/2017/03/11/the-authentic-actor.html</guid>
         
         
-        <category>Reviews</category>
+        <category>reviews</category>
         
       </item>
     
@@ -148,7 +148,7 @@
         <guid isPermaLink="true">/reviews/2017/02/26/the-body-of-an-american.html</guid>
         
         
-        <category>Reviews</category>
+        <category>reviews</category>
         
       </item>
     
@@ -175,7 +175,7 @@
         <guid isPermaLink="true">/recommendations/2017/02/15/sing-a-secret.html</guid>
         
         
-        <category>Recommendations</category>
+        <category>recommendations</category>
         
       </item>
     
@@ -212,7 +212,7 @@
         <guid isPermaLink="true">/reviews/2017/02/12/due-to-events.html</guid>
         
         
-        <category>Reviews</category>
+        <category>reviews</category>
         
       </item>
     
@@ -243,7 +243,7 @@
         <guid isPermaLink="true">/recommendations/2017/01/31/jim-jarrett-meisner-technique.html</guid>
         
         
-        <category>Recommendations</category>
+        <category>recommendations</category>
         
       </item>
     
@@ -262,7 +262,7 @@
         <guid isPermaLink="true">/recommendations/2017/01/30/are-you-going-to-espafest.html</guid>
         
         
-        <category>Recommendations</category>
+        <category>recommendations</category>
         
       </item>
     
@@ -297,7 +297,7 @@
         <guid isPermaLink="true">/thoughts/2017/01/28/what-i-learned-working-on-green-screen.html</guid>
         
         
-        <category>Thoughts</category>
+        <category>thoughts</category>
         
       </item>
     

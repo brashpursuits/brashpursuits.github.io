@@ -619,7 +619,7 @@ iframe {max-width:100%;}
     border-radius: 2px;
     color: #fff;
     font-weight: 600;
-    text-transform: lowercase;
+    /*text-transform: lowercase;*/
     font-size: 0.9rem;
 }
 .layout-page .jumbotron.fortags {display:none;}
