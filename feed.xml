@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>All Acting.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 May 2018 16:35:07 +0100</pubDate>
-    <lastBuildDate>Tue, 15 May 2018 16:35:07 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 May 2018 17:11:53 +0100</pubDate>
+    <lastBuildDate>Tue, 15 May 2018 17:11:53 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -32,8 +32,8 @@
 &lt;p&gt;&lt;em&gt;For more information about Red Caravan, cruise on over to their &lt;a href=&quot;https://web.archive.org/web/20160605003538/http://www.redcaravanco.com/&quot;&gt;official website&lt;/a&gt;. For any followup questions about this review, file ‘em to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/recommendations/2017/05/20/red-caravan-rubbermatch.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recommendations/2017/05/20/red-caravan-rubbermatch.html</guid>
+        <link>/recommendations/2017/05/20/red-caravan-rubbermatch.html</link>
+        <guid isPermaLink="true">/recommendations/2017/05/20/red-caravan-rubbermatch.html</guid>
         
         
         <category>Recommendations</category>
@@ -61,8 +61,8 @@
 &lt;p&gt;&lt;em&gt;To sign up for a free Sing A Secret workshop, cruise over to &lt;a href=&quot;http://www.singasecret.com/&quot;&gt;Jon’s website&lt;/a&gt;. For any questions about my particular experiences working with Jon, direct emails to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/recommendations/2017/05/10/finding-your-voice-with-jon-stancato.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recommendations/2017/05/10/finding-your-voice-with-jon-stancato.html</guid>
+        <link>/recommendations/2017/05/10/finding-your-voice-with-jon-stancato.html</link>
+        <guid isPermaLink="true">/recommendations/2017/05/10/finding-your-voice-with-jon-stancato.html</guid>
         
         
         <category>Recommendations</category>
@@ -84,8 +84,8 @@
 &lt;p&gt;&lt;em&gt;You can check out more of ‘s work at &lt;a href=&quot;http://www.becomingmedia.com/&quot;&gt;www.becomingmedia.com&lt;/a&gt;. Please direct any followup questions about this article to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Apr 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/reviews/2017/04/06/the-science-of-on-camera-acting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reviews/2017/04/06/the-science-of-on-camera-acting.html</guid>
+        <link>/reviews/2017/04/06/the-science-of-on-camera-acting.html</link>
+        <guid isPermaLink="true">/reviews/2017/04/06/the-science-of-on-camera-acting.html</guid>
         
         
         <category>Reviews</category>
@@ -113,8 +113,8 @@
 &lt;p&gt;&lt;em&gt;For more information about Michael Laskin, please visit __www.michaellaskinstudio.com&lt;/em&gt;. &lt;em&gt;For any questions about this article, please reach out to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/reviews/2017/03/11/the-authentic-actor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reviews/2017/03/11/the-authentic-actor.html</guid>
+        <link>/reviews/2017/03/11/the-authentic-actor.html</link>
+        <guid isPermaLink="true">/reviews/2017/03/11/the-authentic-actor.html</guid>
         
         
         <category>Reviews</category>
@@ -144,8 +144,8 @@
 &lt;p&gt;&lt;em&gt;The Body Of An American continues its run at The Cherry Lane Theater from now until March 20th. For more information about the play, and more details about all the brilliant people involved, please visit &lt;a href=&quot;http://primarystages.org/shows/current-season/the-body-of-an-american&quot;&gt;http://primarystages.org/shows/current-season/the-body-of-an-american&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/reviews/2017/02/26/the-body-of-an-american.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reviews/2017/02/26/the-body-of-an-american.html</guid>
+        <link>/reviews/2017/02/26/the-body-of-an-american.html</link>
+        <guid isPermaLink="true">/reviews/2017/02/26/the-body-of-an-american.html</guid>
         
         
         <category>Reviews</category>
@@ -171,8 +171,8 @@
 &lt;p&gt;&lt;em&gt;For more information about the workshop, you can check out &lt;a href=&quot;http://theatergym.com/classes.html&quot;&gt;www.theatergym.com/classes.html&lt;/a&gt;. If you have any other questions or comments feel free to reach out to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/recommendations/2017/02/15/sing-a-secret.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recommendations/2017/02/15/sing-a-secret.html</guid>
+        <link>/recommendations/2017/02/15/sing-a-secret.html</link>
+        <guid isPermaLink="true">/recommendations/2017/02/15/sing-a-secret.html</guid>
         
         
         <category>Recommendations</category>
@@ -208,8 +208,8 @@
 &lt;p&gt;&lt;em&gt;DUE TO EVENTS runs at The Brick Theater in Brooklyn until February 27th. For more information about the play and Human Head Performance Group visit &lt;a href=&quot;http://www.humanheadperformancegroup.com/&quot;&gt;www.humanheadperformancegroup.com&lt;/a&gt;. For any inquiries about this article, reach out to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/reviews/2017/02/12/due-to-events.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reviews/2017/02/12/due-to-events.html</guid>
+        <link>/reviews/2017/02/12/due-to-events.html</link>
+        <guid isPermaLink="true">/reviews/2017/02/12/due-to-events.html</guid>
         
         
         <category>Reviews</category>
@@ -239,8 +239,8 @@
 &lt;p&gt;&lt;em&gt;You can check out more about Jim Jarrett, his newsletter, videos, and classes at &lt;a href=&quot;https://web.archive.org/web/20160114193126/http://themeisnertechniquestudio.com/&quot;&gt;www.themeisnertechniquestudio.com&lt;/a&gt;&lt;/em&gt;. &lt;em&gt;If you have any questions, comments, or inquiries about this article, please shoot an email to tim@brashpursuits.com. Have a great day!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/recommendations/2017/01/31/jim-jarrett-meisner-technique.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recommendations/2017/01/31/jim-jarrett-meisner-technique.html</guid>
+        <link>/recommendations/2017/01/31/jim-jarrett-meisner-technique.html</link>
+        <guid isPermaLink="true">/recommendations/2017/01/31/jim-jarrett-meisner-technique.html</guid>
         
         
         <category>Recommendations</category>
@@ -258,8 +258,8 @@
 &lt;p&gt;&lt;em&gt;If you have any questions about the ESPA experience, feel free to email me at tim@brashpursuits.com, although I honestly encourage you to swing in and see what things are like for yourself.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/recommendations/2017/01/30/are-you-going-to-espafest.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recommendations/2017/01/30/are-you-going-to-espafest.html</guid>
+        <link>/recommendations/2017/01/30/are-you-going-to-espafest.html</link>
+        <guid isPermaLink="true">/recommendations/2017/01/30/are-you-going-to-espafest.html</guid>
         
         
         <category>Recommendations</category>
@@ -293,8 +293,8 @@
 &lt;p&gt;&lt;em&gt;For more information about Mythic Bridge, check out &lt;a href=&quot;http://www.mythicbridge.org/&quot;&gt;www.mythicbridge.org&lt;/a&gt;. The CGI in the above short was created by Mo Caicedo, a genius among men. You can check out more of his work at &lt;a href=&quot;http://www.mocaicedo.com/&quot;&gt;www.mocaicedo.com&lt;/a&gt;. For any other complaints, concerns, or questions, fire off an email to tim@brashpursuits.com.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thoughts/2017/01/28/what-i-learned-working-on-green-screen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/thoughts/2017/01/28/what-i-learned-working-on-green-screen.html</guid>
+        <link>/thoughts/2017/01/28/what-i-learned-working-on-green-screen.html</link>
+        <guid isPermaLink="true">/thoughts/2017/01/28/what-i-learned-working-on-green-screen.html</guid>
         
         
         <category>Thoughts</category>
