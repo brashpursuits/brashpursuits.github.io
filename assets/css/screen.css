@@ -138,7 +138,7 @@ section.recent-posts {
 }
 .listrecent .wrapfooter {
 	font-size:12px;
-	margin-top:30px;
+	margin-top:00px;
 }
 .author-thumb {
 	width:40px;
@@ -177,7 +177,7 @@ span.post-name,span.post-date,span.author-meta {
 	display:inline-block;
 }
 span.post-date,span.post-read {
-	color:rgba(0,0,0,.44);
+	color:rgba(0,0,0,.34);
 }
 span.post-read-more {
 	align-items:center;
@@ -621,6 +621,7 @@ iframe {max-width:100%;}
     font-weight: 600;
     /*text-transform: lowercase;*/
     font-size: 0.9rem;
+    line-height: 36px;
 }
 .layout-page .jumbotron.fortags {display:none;}
 
